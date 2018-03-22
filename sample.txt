@@ -1,0 +1,2 @@
+my name is git
+i am the sample file for the git repository
